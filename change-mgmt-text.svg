@@ -1,0 +1,44 @@
+<svg width="1208" height="729" viewBox="0 0 1208 729" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="change-mgmt">
+<path id="change-line" d="M364 82.5V87.5217H366V82.5H364ZM364 92.5435V102.587H366V92.5435H364ZM364 107.609V117.652H366V107.609H364ZM364 122.674V132.717H366V122.674H364ZM364 137.739V147.783H366V137.739H364ZM364 152.804V162.848H366V152.804H364ZM364 167.87V177.913H366V167.87H364ZM364 182.935V192.978H366V182.935H364ZM364 198V208.043H366V198H364ZM364 213.065V223.109H366V213.065H364ZM364 228.13V238.174H366V228.13H364ZM364 243.196V253.239H366V243.196H364ZM364 258.261V268.304H366V258.261H364ZM364 273.326V283.37H366V273.326H364ZM364 288.391V298.435H366V288.391H364ZM364 303.457V313.5H366V303.457H364ZM364 318.522V328.565H366V318.522H364ZM364 333.587V343.63H366V333.587H364ZM364 348.652V358.696H366V348.652H364ZM364 363.717V373.761H366V363.717H364ZM364 378.783V388.826H366V378.783H364ZM364 393.848V403.891H366V393.848H364ZM364 408.913V418.957H366V408.913H364ZM364 423.978V429H366V423.978H364Z" fill="#363636"/>
+<g id="eline1" filter="url(#filter0_d)">
+<path d="M135 394H364.5H413" stroke="#335DF2" stroke-width="10" stroke-linecap="round"/>
+</g>
+<path id="x-axis" d="M130 5V631" stroke="black" stroke-width="10" stroke-linecap="round"/>
+<g id="y-axis" filter="url(#filter1_d)">
+<path d="M130 631H1199" stroke="black" stroke-width="10" stroke-linecap="round"/>
+</g>
+<text id="efficiency-scale" transform="translate(0 462) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Courier New" font-size="48" font-weight="bold" letter-spacing="0em"><tspan x="0" y="39.7734">Efficiency</tspan></text>
+<text id="time-scale" fill="black" xml:space="preserve" style="white-space: pre" font-family="Courier New" font-size="48" font-weight="bold" letter-spacing="0em"><tspan x="606" y="714.773">Time</tspan></text>
+<text id="what-will-happen" fill="black" xml:space="preserve" style="white-space: pre" font-family="Courier New" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="166" y="451.822">What do you think will </tspan><tspan x="166" y="474.822">happen when you make a </tspan><tspan x="166" y="497.822">process change?</tspan></text>
+<g id="go-up">
+<rect id="bg" x="179.5" y="520.5" width="95" height="31" rx="7.5" stroke="black"/>
+<text id="go-up-text" fill="black" xml:space="preserve" style="white-space: pre" font-family="Courier New" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="197" y="541.322">Go Up</tspan></text>
+</g>
+<g id="go-down">
+<rect id="bg_2" x="306.5" y="520.5" width="122" height="31" rx="7.5" stroke="black"/>
+<text id="go-up-text_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Courier New" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="326" y="541.322">Go Down</tspan></text>
+</g>
+<text id="change-process" fill="black" xml:space="preserve" style="white-space: pre" font-family="Courier New" font-size="20" font-weight="bold" letter-spacing="0em"><tspan x="322.959" y="28.3223">Process </tspan><tspan x="328.965" y="51.3223">Change </tspan><tspan x="298.936" y="74.3223">Implemented</tspan></text>
+</g>
+<defs>
+<filter id="filter0_d" x="126" y="389" width="296" height="18" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<filter id="filter1_d" x="121" y="626" width="1087" height="18" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
