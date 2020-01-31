@@ -5,7 +5,9 @@ const time = document.querySelector("#time-scale")
 const eline = document.querySelector("#eline1 path")
 const whatWillHappenTxt = document.querySelector("#what-will-happen")
 const changeProcessTxt = document.querySelector("#change-process")
-
+const changeLine = document.querySelector("#change-line")
+const goUp = document.querySelector("#go-up")
+const goDown = document.querySelector("#go-down")
 
 let tl = gsap.timeline()
 
